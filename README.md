@@ -5,14 +5,15 @@
   </a>
 </h1>
 <br>
+
 ### 🤔 Who am I <img align='right' src="https://github-readme-stats.vercel.app/api?username=ManetPark&theme=vision-friendly-dark" height="180"> 
-- Ph.D. Candidate in Civil and Environmental Engineering
+- Ph.D. Candidate
+- Civil and Environmental Engineering
 - OpenSees Numerical Model Calibration for Reinforced Concrete Columns
 
 
 <br>
 
 ### 🛠 Skills
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
