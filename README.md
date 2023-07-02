@@ -6,8 +6,8 @@
 </h1>
 <br>
 ### 🤔 Who am I <img align='right' src="https://github-readme-stats.vercel.app/api?username=sar9702&theme=vision-friendly-dark" height="180"> 
-- Ph.D. Candidate in Civil and Environmental Engineering\
-- OpenSees Numerical Model Calibration for Reinforced Concrete Columns\
+- Ph.D. Candidate in Civil and Environmental Engineering
+- OpenSees Numerical Model Calibration for Reinforced Concrete Columns
 
 
 <br>
